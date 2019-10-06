@@ -1,3 +1,5 @@
+-- Using mySQL dialect.
+
 -- Solution for A)
 
 SELECT em.name,  sup.name as supervisor, b.nbonus as bonus
